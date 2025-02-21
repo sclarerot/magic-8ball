@@ -1,0 +1,41 @@
+* {
+    background-color:dimgrey;
+    color: black;
+}
+
+.header {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.button {
+    display: block;
+    margin: auto;
+    height: 32px;
+    width: 96px;
+    background-color: black;
+    color: white;
+    font-size: smaller;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.eight-ball {
+    display: block;
+    height: 100px;
+    width: 100px;
+    margin: auto;
+    margin-bottom: 20px;
+    background-color: black;
+    border-radius: 50px;
+    backdrop-filter: blur(10px);
+}
+
+#text-area {
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    border-radius: 50px;
+    background-color: white;
+    margin: 42px 0 0 30px; ;
+    display: inline-block;
+    font-size: smaller;
+}
